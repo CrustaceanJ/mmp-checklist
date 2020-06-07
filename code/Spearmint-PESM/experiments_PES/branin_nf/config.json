@@ -1,0 +1,23 @@
+{
+    "language"        : "PYTHON",
+    "max_finished_jobs" : 40,
+    "main_file"       : "branin_nf.py",
+    "experiment-name" : "Branin-Noise-free",
+    "likelihood"      : "NOISELESS",
+    "acquisition"     : "PES",
+    "variables" : {
+        "x" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : -5,
+            "max"  : 10
+        },
+        "y" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : 0,
+            "max"  : 15
+        }
+    }
+}
+

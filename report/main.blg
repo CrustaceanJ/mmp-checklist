@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: gost71s.bst
+Database file #1: Literature.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in HyperoptCode
+Warning--empty journal in lecun-mnisthandwrittendigit-2010
+Warning--empty journal in ScikitOptimizeCode
+Warning--empty journal in SpearmintCode
+You've used 12 entries,
+            3051 wiz_defined-function locations,
+            750 strings with 7841 characters,
+and the built_in function-call counts, 4538 in all, are:
+= -- 526
+> -- 168
+< -- 15
++ -- 61
+- -- 48
+* -- 253
+:= -- 614
+add.period$ -- 39
+call.type$ -- 12
+change.case$ -- 59
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 199
+empty$ -- 397
+format.name$ -- 48
+if$ -- 1093
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 0
+newline$ -- 72
+num.names$ -- 39
+pop$ -- 117
+preamble$ -- 1
+purify$ -- 48
+quote$ -- 15
+skip$ -- 168
+stack$ -- 0
+substring$ -- 195
+swap$ -- 108
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 27
+width$ -- 14
+write$ -- 170
+(There were 4 warnings)

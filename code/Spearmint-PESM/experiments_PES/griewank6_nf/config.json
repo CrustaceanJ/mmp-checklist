@@ -1,0 +1,49 @@
+{
+    
+    "language"          : "PYTHON",
+    "max_finished_jobs" : 40,
+    "main_file"         : "griewank_nf.py",
+    "experiment-name"   : "Griewank-Noise-free",
+    "likelihood"        : "NOISELESS",
+    "acquisition"       : "PES",
+    "random_seed"       : 1,
+    "variables" : {
+        "x1" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : -2,
+            "max"  : 2
+        },
+        "x2" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : -2,
+            "max"  : 2
+        },
+        "x3" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : -2,
+            "max"  : 2
+        },
+        "x4" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : -2,
+            "max"  : 2
+        },
+        "x5" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : -2,
+            "max"  : 2
+        },
+        "x6" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : -2,
+            "max"  : 2
+        }
+    }
+}
+

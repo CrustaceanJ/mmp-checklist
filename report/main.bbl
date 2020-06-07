@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{NIPS2011_4443}
+\selectlanguageifdefined{english}
+Algorithms for hyper-parameter optimization~/ J.~S.~Bergstra, R.~Bardenet,
+  Y.~Bengio, B.~K\'{e}gl~// Advances in Neural Information Processing Systems
+  24~/ Ed. by J.~Shawe-Taylor, R.~S.~Zemel, P.~L.~Bartlett et~al. "---
+\newblock Curran Associates, Inc., 2011. "---
+\newblock Pp.~2546--2554. \BibUrl{
+  http://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf}.
+
+\bibitem{florea2020weighted}
+\selectlanguageifdefined{english}
+\BibEmph{Florea~A.-C., Andonie~R.} Weighted random search for hyperparameter
+  optimization. "---
+\newblock 2020.
+
+\bibitem{hernndezlobato2014predictive}
+\selectlanguageifdefined{english}
+\BibEmph{Hernández-Lobato~J.~M., Hoffman~M.~W., Ghahramani~Z.} Predictive
+  entropy search for efficient global optimization of black-box functions. "---
+\newblock 2014.
+
+\bibitem{HutHooLey14}
+\selectlanguageifdefined{english}
+\BibEmph{Hutter~F., Hoos~H., Leyton-Brown~K.} An efficient approach for
+  assessing hyperparameter importance~// Proceedings of International
+  Conference on Machine Learning 2014 (ICML 2014). "---
+\newblock 2014. "--- Junuary. "---
+\newblock Pp.~754--762.
+
+\bibitem{10.1007/978-3-642-25566-3_40}
+\selectlanguageifdefined{english}
+\BibEmph{Hutter~F., Hoos~H.~H., Leyton-Brown~K.} Sequential model-based
+  optimization for general algorithm configuration~// Proceedings of the 5th
+  International Conference on Learning and Intelligent Optimization. "---
+\newblock LION’05. "---
+\newblock Berlin, Heidelberg: Springer-Verlag, 2011. "---
+\newblock P.~507–523.
+
+\bibitem{HyperoptCode}
+\selectlanguageifdefined{english}
+Hyperopt: Distributed asynchronous hyper-parameter optimization. \BibUrl{
+  http://hyperopt.github.io/hyperopt/}.
+
+\bibitem{lecun-mnisthandwrittendigit-2010}
+\selectlanguageifdefined{english}
+\BibEmph{LeCun~Y., Cortes~C.} {MNIST} handwritten digit database. "---
+\newblock 2010. \BibUrl{ http://yann.lecun.com/exdb/mnist/}.
+
+\bibitem{Rasmussen2006Gaussian}
+\selectlanguageifdefined{english}
+\BibEmph{Rasmussen~C.~E., Williams~C. K.~I.} Gaussian Processes for Machine
+  Learning. "---
+\newblock The MIT Press, 2006.
+
+\bibitem{ScikitOptimizeCode}
+\selectlanguageifdefined{english}
+scikit-optimize: Sequential model-based optimization in python. \BibUrl{
+  https://scikit-optimize.github.io/stable/}.
+
+\bibitem{shah2014student}
+\selectlanguageifdefined{english}
+\BibEmph{Shah~A., Wilson~A., Ghahramani~Z.} Student-t processes as alternatives
+  to gaussian processes~// Artificial intelligence and statistics. "---
+\newblock 2014. "---
+\newblock Pp.~877--885.
+
+\bibitem{SpearmintCode}
+\selectlanguageifdefined{english}
+Spearmint bayesian optimization codebase. \BibUrl{
+  https://github.com/HIPS/Spearmint/tree/PESM}.
+
+\bibitem{simulationlib}
+\selectlanguageifdefined{english}
+\BibEmph{Surjanovic~S., Bingham~D.} Virtual library of simulation experiments:
+  Test functions and datasets. "---
+\newblock Retrieved June 6, 2020, from \url{http://www.sfu.ca/~ssurjano}.
+
+\end{thebibliography}
